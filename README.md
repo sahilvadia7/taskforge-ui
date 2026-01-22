@@ -18,6 +18,50 @@ It interacts with the TaskForge Backend via REST APIs and authenticates users us
 
 ---
 
+## Screenshots
+
+### Interactive Dashboard
+The central hub for your workflow. View recent projects, track activity streams, and access quick actions.
+![Dashboard UI](public/screenshots/dashboard.png)
+
+### Project Overview & Analytics
+Get high-level insights into project health with "Types of Work" distribution and Team Workload charts.
+![Project Overview](public/screenshots/project-overview.png)
+
+### Metrics & Burndown Charts
+Track project progress with automated burnup charts and real-time issue status summaries.
+![Project Metrics](public/screenshots/project-burnup.png)
+
+### Agile Backlog Management
+Plan and organize work efficiently. Create sprints, prioritize issues using drag-and-drop, and manage your backlog.
+![Backlog View](public/screenshots/backlog.png)
+
+### Kanban Board
+Visualize work in progress with a fully interactive Kanban board. Customizable columns, drag-and-drop support, and filter by Issue Type.
+![Kanban Board](public/screenshots/kanban-board.png)
+
+### Epic & Roadmap Planning
+Visualize high-level goals and track progress across multiple stories with the Epics view.
+![Epics View](public/screenshots/epics-view.png)
+
+### Interactive Calendar
+Manage deadlines and schedule sprints effectively with the drag-and-drop calendar view.
+![Calendar View](public/screenshots/calendar-view.png)
+
+### Workflow & Rule Engine
+Customize your project's workflow with a powerful rule engine to automate status transitions.
+![Workflow Engine](public/screenshots/workflow-engine.png)
+
+### Issue Details & Editing
+A comprehensive modal for editing issues, adding subtasks, comments, and tracking history.
+![Issue Detail](public/screenshots/issue-detail.png)
+
+### Form Builder
+Design custom intake forms to capture structured data directly into your project.
+![Form Builder](public/screenshots/form-builder.png)
+
+---
+
 ## Tech Stack
 
 | Technology | Purpose |
